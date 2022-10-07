@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap');
+
+.container{
+    background: linear-gradient(130.02deg, #628E75 0.66%, #1A4855 83.32%);
+    width: 100%;
+    height: 1000px;
+}
+
+#logo-studio{
+    margin-left: 165px;
+    margin-top: 41px;
+    
+    width: 120px;
+}
+
+#logo-facebook{
+    margin-left: 650px;
+    padding-bottom: 11px;
+    width: 27px;
+}
+
+#logo-instagram{
+    margin-left: 20px;
+    padding-bottom: 9px;
+    width: 35px;
+}
+
+#logo-twitter{
+    margin-left: 20px;
+    padding-bottom: 7px;
+    width: 35px;
+}
+
+#logo-youtube{
+    margin-left: 16px;
+    padding-bottom: 8px;
+    width: 45px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.boxs{
+    display: flex;
+}
+
+.box-1{
+    margin-left: 165px;
+    margin-top: 75px;
+}
+
+#p-1_box-1{
+    color: #F9F9F9;
+    font: 700 20px 'Poppins';
+    line-height: 30px;
+
+}
+
+#p-2_box-1{
+    color: #F9F9F9;
+    font: 900 68px 'Poppins';
+    margin-top: 14px;
+    line-height: 74.12px;
+}
+
+#p-3_box-1{
+    color: #F9F9F9;
+    font: 400 16px 'Poppins';
+    line-height: 28.8px;
+    margin-top: 25px;
+}
+
+#botao-assistir{
+    color: #F9F9F9;
+    padding-left: 20px;
+    font: 500 16px 'Poppins';
+
+}
+
+.botao{
+    margin-top: 45px;
+    width: 225px;
+    height: 45px;
+    background-color: #628E75;
+    border: none;
+    clip-path: polygon(10% 0, 100% 0, 90% 100%, 0% 100%);
+}
+
+#fantasma{
+    width: 430px;
+    margin-left: 140px;
+    margin-top: 80px;
+}
+
+#icone-triangulo{
+    width: 20px;
+    padding-left: 30px;
+}
